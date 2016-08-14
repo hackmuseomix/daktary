@@ -10,7 +10,7 @@ GH.OWNER = 'hackmuseomix'
 GH.CREW = 'museomixpresentation'
 
 var MULTIBAO = {}
-MULTIBAO.UVP1 = 'Serious hack of MuseoMix'
-MULTIBAO.UVP2 = 'Croiser les cultures, demo de la techno multibao'
+MULTIBAO.UVP1 = 'Partager et enrichir vos pratiques d\'équipe'
+MULTIBAO.UVP2 = ''
 MULTIBAO.BUTTON1 = 'C\est quoi multibao?'
 MULTIBAO.BUTTON2 = 'Guide d\'utilisation'
