@@ -11,6 +11,6 @@ GH.CREW = 'museomixpresentation'
 
 var MULTIBAO = {}
 MULTIBAO.UVP1 = 'Partager et enrichir vos pratiques d\'équipe'
-MULTIBAO.UVP2 = ''
-MULTIBAO.BUTTON1 = 'C\est quoi multibao?'
+MULTIBAO.UVP2 = 'Après le Do It Yourself, le Do It Together'
+MULTIBAO.BUTTON1 = 'Découvrir'
 MULTIBAO.BUTTON2 = 'Espace contributeurs / bloggeurs'
