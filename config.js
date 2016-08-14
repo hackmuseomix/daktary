@@ -13,4 +13,4 @@ var MULTIBAO = {}
 MULTIBAO.UVP1 = 'Partager et enrichir vos pratiques d\'équipe'
 MULTIBAO.UVP2 = ''
 MULTIBAO.BUTTON1 = 'C\est quoi multibao?'
-MULTIBAO.BUTTON2 = 'Guide d\'utilisation'
+MULTIBAO.BUTTON2 = 'Espace contributeurs / bloggeurs'
