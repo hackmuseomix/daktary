@@ -12,5 +12,5 @@ GH.CREW = 'museomixpresentation'
 var MULTIBAO = {}
 MULTIBAO.UVP1 = 'Datas Museomix'
 MULTIBAO.UVP2 = 'Demo de la techno multiBàO'
-MULTIBAO.BUTTON1 = 'MultiBàO, c\'est quoi?
+MULTIBAO.BUTTON1 = 'MultiBàO, c\'est quoi?'
 MULTIBAO.BUTTON2 = 'Espace contributeurs / bloggeurs'
